@@ -24,5 +24,5 @@ Presentation: PowerPoint saved as a pdf
 
 ## Dashboard
 Please find the link to the dashboard I created on Google Looker:
-https://lookerstudio.google.com/s/mobgK7YuYXQ
+https://lookerstudio.google.com/s/kDOwarU_V3k
 
