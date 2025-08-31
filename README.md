@@ -23,6 +23,6 @@ Planning: Miro (Data Flow Diagram)
 Presentation: PowerPoint saved as a pdf
 
 ## Dashboard
-Please find the link to the dashboard i created on Google Looker below:
+Please find the link to the dashboard I created on Google Looker:
 https://lookerstudio.google.com/s/mobgK7YuYXQ
 
